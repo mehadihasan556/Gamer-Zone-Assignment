@@ -1,0 +1,90 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* nav bar extra section(for bonus marks) */
+nav {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin: auto;
+
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 10 px;
+    font-size: medium;
+}
+
+nav a {
+    text-decoration: none;
+    color: palevioletred;
+}
+
+.section-header{text-align: center;}
+.text-description{text-align:center;}
+
+.main-2{width:1600px;
+height:500px;
+background-color:mediumvioletred;}
+
+.main-header{color:white;}
+.main-text{color:white;}
+.lisbon{color:white;}
+
+.multimedia{color:white;}
+.img{display:flex;}
+
+.banner-header{display: flex;}
+.publicatons{margin-left:20px;}
+
+
+.header-1{display:flex;
+align-items:center;}
+
+.btn-primary{background-color:gray;}
+banner-header{display:flex;
+}
+.main{display:flex;
+align-items: center;}
+
+container-2{display:flex;
+}
+.Funny Videos{text-decoration-color:darkmagenta;}
+
+.images{display:flex;
+}
+
+.multimedia-artist{display:flex;
+}
+
+.footer-header{display:flex;
+align-items:center;
+justify-content: center;}
+
+
+.container-4{width:1600px;
+height:300px;
+background-color: black;}
+
+.footer-title{color: white;
+    list-style: none;
+    margin-right: 10 px;
+    font-size: medium;
+    display:flex;
+    align-items: center;
+    gap:20px;
+    justify-content: center;
+}
+
+.copy{color:white;
+text-align: center;}

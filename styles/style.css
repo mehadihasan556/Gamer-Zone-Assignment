@@ -89,6 +89,8 @@ nav a {
     font-weight: bold;
 }
 
+.btn-secondary{background-color:darkgrey;}
+
 banner-header {
     display: flex;
 }
